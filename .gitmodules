@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ebnm"]
+	path = ebnm
+	url = https://github.com/stephenslab/ebnm
+	registered = false
 [submodule "flashier"]
 	path = flashier
 	url = https://github.com/willwerscheid/flashier
