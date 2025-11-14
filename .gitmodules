@@ -6,6 +6,10 @@
 	path = ebnm
 	url = https://github.com/stephenslab/ebnm
 	registered = false
+[submodule "fastTopics"]
+	path = fastTopics
+	url = https://github.com/stephenslab/fastTopics
+	registered = false
 [submodule "flashier"]
 	path = flashier
 	url = https://github.com/willwerscheid/flashier

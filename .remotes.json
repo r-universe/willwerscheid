@@ -4,5 +4,11 @@
     "url": "https://github.com/stephenslab/ebnm",
     "via": ["flashier"],
     "from": "flashier"
+  },
+  {
+    "package": "fastTopics",
+    "url": "https://github.com/stephenslab/fastTopics",
+    "via": ["flashier"],
+    "from": "flashier"
   }
 ]
